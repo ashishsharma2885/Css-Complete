@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* absolute
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#car1{
+    width: 100px;
+    height: 140px;
+    background-color: red;
+}
+
+#car2{
+    width: 80px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    height: 100px;
+    background-color: blue;
+}
+
+#car3{
+    width: 105px;
+    height: 90px;
+    background-color: greenyellow;
+} */
+
+#box{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+#cube{
+    position: absolute;
+    left: 40%;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(50, 91, 47);
+}
+

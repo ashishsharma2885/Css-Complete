@@ -1,0 +1,45 @@
+1 - repeatation steps
+2 - html file
+3 - css file
+4 - link both of them
+5 - and write there boilerplate code
+
+
+yh sari cize jo hme jo hme padhni hai
+1 width and height
+1 color
+1 units px % vw vh em rem
+1 max-width and max-height
+2 font-family
+3 font-size
+4 line-height
+5 text-align
+6 padding
+7 margin
+8 border
+9 display
+10 position
+11 background
+12 flex
+13 pseudo-elements
+14 pseudo-classes
+15 animation
+16 media-queries
+
+
+ek box banao jo ki red ho
+box ka matalb hamesha div hota hai
+
+simle rule in box
+jaha bhi ek se jyada elements dikhe waha div hai
+jaha bhi rectangular shape dikhe waha bhi div hai
+
+Topic - box kaise banta hai
+Ans - Box banao and usey red karo
+div banao html mein
+div ko w h dijiye css mein 
+background color dijiye red
+
+Topic - color and background-color
+color - text color
+background color - background ka color 

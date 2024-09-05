@@ -1,0 +1,15 @@
+Topic - Units
+paani - litres
+solid - kg
+distance - km m
+
+Units exactly kya hote hai
+Ans -px % vw vh em rem
+
+1 - px kya hota hai - 1px on screen px me screen ka si size change nhi hote
+2 % - jitna total hai uska hissa 70 % width dedo screen ko chota bada karenge toh yh bhi badelega
+em -  em depend karta hai us element ke front size par, aur ye agar parent ko
+dete hai to children par bhi apply hota hai
+matalb kuch aisa:
+consode kariye ek element hai jiske pass16px font size hai to 1em ki value 16px hogi 
+aur font size change kiya to uske response mein em ki value bhi badhegi

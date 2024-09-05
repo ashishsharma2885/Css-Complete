@@ -1,0 +1,15 @@
+pseudo-elements
+::before
+::after
+::first-line
+::first-letter
+::selection
+
+pseudo-classes
+:hover
+:active
+:focus
+:nth-child(n)
+
+har element ke pass ek possibility hoti hai ki wo element chaahe to inactive do 
+and before naam ki properties ko activate kar skta hai
